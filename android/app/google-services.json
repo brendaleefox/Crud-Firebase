@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635509198111",
+    "project_id": "newcrudeproject",
+    "storage_bucket": "newcrudeproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635509198111:android:4e562e0352929cb3b0342a",
+        "android_client_info": {
+          "package_name": "newprojectcrud.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftvenrJBW35mt_rbYdaRVMVSmuebeBDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
